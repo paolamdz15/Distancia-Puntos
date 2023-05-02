@@ -1,0 +1,3 @@
+C:\Users\Aleja\Videos\TAREA-POO-main\SistemaProgramacionDistanciaPuntos\SistemaProgramacionDistanciaPuntos\obj\Debug\DistanciaPuntos.csprojAssemblyReference.cache
+C:\Users\Aleja\Videos\TAREA-POO-main\SistemaProgramacionDistanciaPuntos\SistemaProgramacionDistanciaPuntos\obj\Debug\SistemaProgramacionDistanciaPuntos.exe
+C:\Users\Aleja\Videos\TAREA-POO-main\SistemaProgramacionDistanciaPuntos\SistemaProgramacionDistanciaPuntos\obj\Debug\SistemaProgramacionDistanciaPuntos.pdb
